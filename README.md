@@ -1,4 +1,3 @@
-# Apache_Spark_Udemy
 # Apache Spark Introduction: 아파치 스파크 소개
 
 ## 아파치 스파크 소개
